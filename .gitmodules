@@ -1,0 +1,9 @@
+[submodule "Readio-Server"]
+	path = Readio-Server
+	url = git@github.com:KilluaYZ/Readio-Server.git
+[submodule "Readio-App"]
+	path = Readio-App
+	url = git@github.com:KilluaYZ/Readio-App.git
+[submodule "Readio-Manage"]
+	path = Readio-Manage
+	url = git@github.com:KilluaYZ/Readio-Manage.git
