@@ -179,19 +179,6 @@ npm run dev
 
 ## 📚 文档
 
-### 项目文档
-
-项目完整文档位于 `doc/pdf/` 目录下：
-
-- [选题报告](doc/pdf/01%20选题报告.pdf) - 项目背景、目标、技术路线
-- [需求规格说明书](doc/pdf/02%20需求规格说明书.pdf) - 详细功能需求
-- [设计规格说明书](doc/pdf/03%20设计规格说明书.pdf) - 系统设计与架构
-- [测试报告](doc/pdf/04%20测试报告.pdf) - 测试结果与分析
-- [使用指南](doc/pdf/05%20使用指南.pdf) - 用户操作手册
-- [项目总结](doc/pdf/06%20项目总结.pdf) - 项目总结与经验
-
-### 子项目文档
-
 - [Android App 文档](Readio-App/README.md)
 - [后台管理系统文档](Readio-Manage/README.md)
 - [后端服务文档](Readio-Server/README.md)
@@ -277,8 +264,8 @@ Copyright (c) 2023 ReadIO
 
 如有问题或建议，请通过以下方式联系：
 
-- 项目仓库：[Gitee](https://gitee.com)
-- 问题反馈：提交 Issue
+- 项目仓库：[Github ReadIO](https://github.com/KilluaYZ/ReadIO)
+- 问题反馈：[提交 Issue](https://github.com/KilluaYZ/ReadIO/issues)
 
 ---
 
