@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![ReadIO Logo](./images/icon_readio_app-playstore.png)
+<img src="./images/icon_readio_app-playstore.png" alt="ReadIO Logo" width="150">
 
 **一款简约、易用、有品质、重原创的阅读工具与原创社区**
 
