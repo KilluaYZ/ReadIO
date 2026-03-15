@@ -7,3 +7,6 @@
 [submodule "Readio-Manage"]
 	path = Readio-Manage
 	url = git@github.com:KilluaYZ/Readio-Manage.git
+[submodule "ReadIO-Spring"]
+	path = ReadIO-Spring
+	url = git@github.com:KilluaYZ/ReadIO-Spring.git
